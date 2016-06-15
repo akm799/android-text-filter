@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">LengthFilter</string>
+    <string name="text_entry_header">EditText with length filter that excludes spaces</string>
+    <string name="text_entry_length">Length:</string>
+    <string name="text_copy_area">You can use the EditText below to copy text and paste it above</string>
+
+    <string-array name="text_allowed_lengths">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
 </resources>
